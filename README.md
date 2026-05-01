@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey, I’m Priya Singh 👋<br>⚡ Full Stack Developer (MERN) | AI Enthusiast<br>Focused on building scalable applications and exploring AI-driven solutions.
+# Hey, I’m Priya Singh 👋
+💫 About Me: <br>⚡ Full Stack Developer (MERN) | AI Enthusiast<br>Focused on building scalable applications and exploring AI-driven solutions.
 
 
 ## 🌐 Socials:
